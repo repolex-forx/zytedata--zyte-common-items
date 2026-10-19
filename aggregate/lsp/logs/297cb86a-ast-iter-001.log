@@ -1,0 +1,7 @@
+[2026-10-19T13:03:34Z] === AST ITERATION 1 START | repo=zytedata/zyte-common-items sha=297cb86a ===
+[2026-10-19T13:03:34Z] [iter=1] PHASE START: ast repo=zytedata/zyte-common-items sha=297cb86a
+[2026-10-19T13:03:34Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T13:04:18Z] [iter=1] AST chunks built count=1 triples=407276
+[2026-10-19T13:04:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/297cb86af88b26106899eb231d50c7b96d164f78/.complete
+[2026-10-19T13:04:18Z] [iter=1] PHASE END: ast elapsed_s=44 elapsed_min=0.7
+[2026-10-19T13:04:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
